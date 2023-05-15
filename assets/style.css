@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(153, 254, 220);
+}
+
+.nav-2 {
+    height: 200px;
+    margin-top: 50px;
+
+}
+
+.img-thumbnail {
+    margin-left: 10px;
+    justify-content: center;
+    height: 240px;
+}
+
+p {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+.nav-header {
+    margin-bottom: 10px;
+}
+
+.bio {
+    text-align: center;
+    margin-top: 2px;
+    text-align: left;
+}
+
+.btn-row {
+    padding: 5px;
+
+}
+
+.btn-projects {
+    background-color: transparent;
+    text-decoration: underline;
+    color: black;
+}
+
+.project-header {
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.phudi-img,
+.tracker-img {
+    height: 174px;
+}
+
+.btn-primary {
+    margin-top: 5px;
+}
